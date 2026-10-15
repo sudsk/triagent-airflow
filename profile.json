@@ -1,0 +1,12 @@
+{
+  "id": "airflow",
+  "name": "airflow",
+  "source": "GitHub",
+  "upstream": "apache/airflow",
+  "fork": "sudsk/airflow",
+  "fork_url": "https://github.com/sudsk/airflow",
+  "app_name": "airflow",
+  "dispatcher_url": null,
+  "test_command_template": null,
+  "sandbox_setup_command": null
+}
